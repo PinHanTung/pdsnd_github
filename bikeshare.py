@@ -2,7 +2,7 @@ import time
 import pandas as pd
 from datetime import timedelta
 
-
+# here are some dicts
 CITY_DATA = { 'chicago': 'chicago.csv',
               'new york city': 'new_york_city.csv',
               'washington': 'washington.csv' }
