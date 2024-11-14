@@ -13,5 +13,5 @@ A tool to view bicycle usage data by city, date, and user details using custom f
 
 
 ### Credits
-- This project was inspired by [udacity/Nanodegree Program:programming for Data Science with Python](https://www.udacity.com/enrollment/nd104).
+- This project was inspired by [udacity/ Nanodegree Program: programming for Data Science with Python](https://www.udacity.com/enrollment/nd104).
 
