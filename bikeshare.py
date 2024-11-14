@@ -247,6 +247,6 @@ def main():
         if restart.lower() != 'yes':
             break
 
-
+# run script when "__main__"
 if __name__ == "__main__":
 	main()
